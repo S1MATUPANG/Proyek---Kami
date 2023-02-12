@@ -1,0 +1,21 @@
+body {
+    background-color: black;
+    color: aliceblue;
+}
+
+.font {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.font h6 {
+    font-style: unset;
+    text-align: center;
+}
+
+.gambar1 img {
+    border: 10px white;
+    border-radius: 1px white solid;
+    width: 400px;
+    height: 200px;
+}
